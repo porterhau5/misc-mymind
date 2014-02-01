@@ -341,7 +341,8 @@
         "id": "fqevuski",
         "text": "This mindmap\n",
         "side": "right",
-        "color": "#000"
+        "color": "#000",
+        "status": "yes"
       },
       {
         "id": "gkmvwjrl",
