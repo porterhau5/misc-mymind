@@ -1,0 +1,355 @@
+{
+  "root": {
+    "id": "ebgxbqcz",
+    "text": "GitHub\n",
+    "color": "#000",
+    "layout": "map",
+    "children": [
+      {
+        "id": "birkobzk",
+        "text": "Books",
+        "side": "left",
+        "color": "#e33",
+        "children": [
+          {
+            "id": "zxhvuxou",
+            "text": "<b>Bash</b>",
+            "layout": "tree-left",
+            "children": [
+              {
+                "id": "roznvrgc",
+                "text": "Bash Cookbook\n"
+              },
+              {
+                "id": "dapnikkj",
+                "text": "Linux Command Line\n"
+              },
+              {
+                "id": "mwxqlyux",
+                "text": "Linux Cookbook\n"
+              },
+              {
+                "id": "vnnmngdl",
+                "text": "SSH, The Definitive Guide\n"
+              }
+            ]
+          },
+          {
+            "id": "hcrsnlzm",
+            "text": "<b>Metasploit</b>",
+            "layout": "tree-left",
+            "children": [
+              {
+                "id": "yelqnuga",
+                "text": "Instant Metasploit Starter\n"
+              },
+              {
+                "id": "hdrtmctf",
+                "text": "Learning Metasploit Exploitation and Development\n"
+              },
+              {
+                "id": "eqbjismp",
+                "text": "Metasploit Toolkit\n"
+              }
+            ]
+          },
+          {
+            "id": "bpubynvh",
+            "text": "<b>Pentesting</b>",
+            "layout": "tree-left",
+            "children": [
+              {
+                "id": "bfqbxxvp",
+                "text": "Profressional Penetration Testing\n"
+              },
+              {
+                "id": "mawrdujg",
+                "text": "Basics of Web Hacking\n"
+              }
+            ]
+          },
+          {
+            "id": "vlkwriwo",
+            "text": "<b>Python</b>",
+            "layout": "tree-left",
+            "children": [
+              {
+                "id": "kvymzhmp",
+                "text": "Byte of Python\n"
+              },
+              {
+                "id": "rnrtpuia",
+                "text": "Gray Hat Python\n"
+              },
+              {
+                "id": "udbpcddw",
+                "text": "Head First Python\n"
+              },
+              {
+                "id": "owmqilaf",
+                "text": "Invent with Python\n"
+              },
+              {
+                "id": "uaesrmft",
+                "text": "Python Cookbook\n"
+              },
+              {
+                "id": "zvjawjoq",
+                "text": "Python Programming for the Absolute Beginner\n"
+              },
+              {
+                "id": "yuargnvb",
+                "text": "Think Python\n"
+              },
+              {
+                "id": "gdqaareb",
+                "text": "Violent Python\n"
+              }
+            ]
+          },
+          {
+            "id": "tiovavcf",
+            "text": "<b>Web Hacking\n</b>",
+            "layout": "tree-left",
+            "children": [
+              {
+                "id": "mxgevicf",
+                "text": "Kali Linux Cookbook\n"
+              },
+              {
+                "id": "jaxehouk",
+                "text": "Metasploit - The Penetration Tester's Guide"
+              },
+              {
+                "id": "ilwxroyk",
+                "text": "Nmap Cookbook\n"
+              },
+              {
+                "id": "pekgqxbm",
+                "text": "pfSense 2 Cookbook\n"
+              },
+              {
+                "id": "ysrfiqwl",
+                "text": "SQL Injection Attacks and Defense\n"
+              },
+              {
+                "id": "huofqunj",
+                "text": "Web Application Hacker's Handbook\n"
+              },
+              {
+                "id": "gcojtqkb",
+                "text": "Windows Servers 2012 Inside Out\n"
+              },
+              {
+                "id": "ngeyokbl",
+                "text": "XSS Attacks\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cpshkvan",
+        "text": "Update current repos\n",
+        "side": "right",
+        "color": "#3e3",
+        "children": [
+          {
+            "id": "gnsdfque",
+            "text": "bash-honeyport",
+            "children": [
+              {
+                "id": "jnvcbtps",
+                "text": "Add version for Windows\n"
+              },
+              {
+                "id": "xjspuohf",
+                "text": "Have option to send output to remote server\n"
+              }
+            ]
+          },
+          {
+            "id": "gfxycien",
+            "text": "bash-port-scanner",
+            "children": [
+              {
+                "id": "vusllsqy",
+                "text": "Add support for UDP\n"
+              },
+              {
+                "id": "erfkhwac",
+                "text": "Run scans in parallel\n"
+              }
+            ]
+          },
+          {
+            "id": "ioedkhpt",
+            "text": "bash-tcpdump-filters",
+            "children": [
+              {
+                "id": "qpwqddue",
+                "text": "Protocol summarization"
+              },
+              {
+                "id": "nwuxtdci",
+                "text": "<ul><li>Application protocol analysis</li></ul>"
+              },
+              {
+                "id": "iavpbflk",
+                "text": "<ul><li>Read in multiple pcaps or a directory of pcaps</li></ul>"
+              },
+              {
+                "id": "frvzodmo",
+                "text": "<ul><li>Run filters in parallel</li></ul>"
+              },
+              {
+                "id": "vruhmfba",
+                "text": "<ul><li>Auto-create output directory</li></ul>"
+              },
+              {
+                "id": "konssqwz",
+                "text": "<ul><li>Create parameter which dictates tcpdumps output (e.g. nnvvXS)</li></ul>"
+              },
+              {
+                "id": "cuskevyk",
+                "text": "<ul><li>Option to write out pcap instead of ASCII</li></ul>"
+              }
+            ]
+          },
+          {
+            "id": "chntkmhv",
+            "text": "perl-regex-it",
+            "children": [
+              {
+                "id": "zyvbjlbq",
+                "text": "Add in an optional param to take in single file (or dir)"
+              },
+              {
+                "id": "lllftcon",
+                "text": "<ul><li>Add in option to print matches to screen</li></ul>"
+              },
+              {
+                "id": "dhzfmtxr",
+                "text": "<ul><li>Add expression for matching SS numbers</li></ul>"
+              },
+              {
+                "id": "nnebshlz",
+                "text": "<ul><li>Add expression for matching IPv4/IPv6 addreses</li></ul>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uoxgaxad",
+        "text": "Bash monitoring service\n",
+        "side": "right",
+        "color": "#000",
+        "children": [
+          {
+            "id": "eryajexx",
+            "text": "Apply google style guide\n"
+          },
+          {
+            "id": "eayqlrfx",
+            "text": "convert to python\n"
+          }
+        ]
+      },
+      {
+        "id": "eklrfsrx",
+        "text": "Arduino\n",
+        "side": "right",
+        "color": "#33e",
+        "children": [
+          {
+            "id": "ujdxntyt",
+            "text": "arduino.cc tutorials\n"
+          },
+          {
+            "id": "broeekpz",
+            "text": "Beginning with Arduino projects\n"
+          },
+          {
+            "id": "qzkdzmhy",
+            "text": "Self projects\n"
+          }
+        ]
+      },
+      {
+        "id": "hwgxceex",
+        "text": "Puppet modules\n",
+        "side": "right",
+        "children": [
+          {
+            "id": "tzsbnrxu",
+            "text": "mongodb"
+          },
+          {
+            "id": "xrmnutes",
+            "text": "redis"
+          },
+          {
+            "id": "wrufzyyl",
+            "text": "haproxy"
+          },
+          {
+            "id": "yhkilgvz",
+            "text": "elasticsearch"
+          }
+        ]
+      },
+      {
+        "id": "agdthoms",
+        "text": "Reddit bot\n",
+        "side": "right",
+        "color": "#dd3",
+        "children": [
+          {
+            "id": "ikqzsoad",
+            "text": "Automatically assign link flair\n"
+          },
+          {
+            "id": "dppldcke",
+            "text": "Post youtube/souncloud links to personal music subreddit\n"
+          }
+        ]
+      },
+      {
+        "id": "igrjrupq",
+        "text": "Ansible",
+        "side": "right"
+      },
+      {
+        "id": "qgtgryxf",
+        "text": "learnpythonthehardway.org\n",
+        "side": "right",
+        "color": "#3dd"
+      },
+      {
+        "id": "dsvlnals",
+        "text": "Flow analytics research\n",
+        "side": "right"
+      },
+      {
+        "id": "qlmanije",
+        "text": "vim config\n",
+        "side": "right",
+        "color": "#d3d"
+      },
+      {
+        "id": "fqevuski",
+        "text": "This mindmap\n",
+        "side": "right",
+        "color": "#000"
+      },
+      {
+        "id": "gkmvwjrl",
+        "text": "Resume/CV",
+        "side": "right",
+        "color": "#fa3"
+      }
+    ]
+  },
+  "id": "vwdgjldr"
+}
