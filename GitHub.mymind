@@ -104,7 +104,39 @@
               {
                 "id": "gdqaareb",
                 "text": "Violent Python\n",
-                "status": "yes"
+                "status": "yes",
+                "layout": "graph-left",
+                "children": [
+                  {
+                    "id": "fidryrgh",
+                    "text": "Chapter 1: Introduction\n",
+                    "status": "yes"
+                  },
+                  {
+                    "id": "hlpoproc",
+                    "text": "Chapter 2: Penetration Testing with Python\n"
+                  },
+                  {
+                    "id": "hulgeehg",
+                    "text": "Chapter 3: Forensic Investigations with Python\n"
+                  },
+                  {
+                    "id": "zffpbiwl",
+                    "text": "Chapter 4: Network Traffic Analysis with Python\n"
+                  },
+                  {
+                    "id": "khmjyyfr",
+                    "text": "Chapter 5: Wireless Mayhem with Python\n"
+                  },
+                  {
+                    "id": "lwizpugq",
+                    "text": "Chapter 6: Web Recon with Python\n"
+                  },
+                  {
+                    "id": "agezfggy",
+                    "text": "Chapter 7: Antivirus Evasion with Python\n"
+                  }
+                ]
               }
             ]
           },
