@@ -103,7 +103,8 @@
               },
               {
                 "id": "gdqaareb",
-                "text": "Violent Python\n"
+                "text": "Violent Python\n",
+                "status": "yes"
               }
             ]
           },
