@@ -382,6 +382,18 @@
         "text": "Resume/CV",
         "side": "right",
         "color": "#fa3"
+      },
+      {
+        "id": "nmgwbznq",
+        "text": "python-blocklist\n",
+        "side": "right",
+        "status": "yes",
+        "children": [
+          {
+            "id": "agkfqvxp",
+            "text": "check IPs from DShield's block list against log files\n"
+          }
+        ]
       }
     ]
   },
