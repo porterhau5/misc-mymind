@@ -114,7 +114,8 @@
                   },
                   {
                     "id": "hlpoproc",
-                    "text": "Chapter 2: Penetration Testing with Python\n"
+                    "text": "Chapter 2: Penetration Testing with Python\n",
+                    "status": "yes"
                   },
                   {
                     "id": "hulgeehg",
