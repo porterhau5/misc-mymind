@@ -119,11 +119,13 @@
                   },
                   {
                     "id": "hulgeehg",
-                    "text": "Chapter 3: Forensic Investigations with Python\n"
+                    "text": "Chapter 3: Forensic Investigations with Python\n",
+                    "status": "yes"
                   },
                   {
                     "id": "zffpbiwl",
-                    "text": "Chapter 4: Network Traffic Analysis with Python\n"
+                    "text": "Chapter 4: Network Traffic Analysis with Python\n",
+                    "status": "yes"
                   },
                   {
                     "id": "khmjyyfr",
