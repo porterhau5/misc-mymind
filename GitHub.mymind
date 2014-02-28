@@ -139,7 +139,8 @@
                   },
                   {
                     "id": "agezfggy",
-                    "text": "Chapter 7: Antivirus Evasion with Python\n"
+                    "text": "Chapter 7: Antivirus Evasion with Python\n",
+                    "status": "yes"
                   }
                 ]
               }
