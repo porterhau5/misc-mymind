@@ -400,6 +400,11 @@
             "text": "check IPs from DShield's block list against log files\n"
           }
         ]
+      },
+      {
+        "id": "rzduyitv",
+        "text": "Social media wordlist builder\n",
+        "side": "left"
       }
     ]
   },
