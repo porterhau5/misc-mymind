@@ -405,6 +405,13 @@
         "id": "rzduyitv",
         "text": "Social media wordlist builder\n",
         "side": "left"
+      },
+      {
+        "id": "fyrhouuw",
+        "text": "SHA1 padding attack\n",
+        "side": "left",
+        "color": "#3e3",
+        "status": "yes"
       }
     ]
   },
