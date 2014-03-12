@@ -404,7 +404,30 @@
       {
         "id": "rzduyitv",
         "text": "Social media wordlist builder\n",
-        "side": "left"
+        "side": "left",
+        "children": [
+          {
+            "id": "blddwhkn",
+            "text": "Twitter",
+            "status": "yes"
+          },
+          {
+            "id": "czirdnyi",
+            "text": "Facebook"
+          },
+          {
+            "id": "wizqztuw",
+            "text": "LinkedIn"
+          },
+          {
+            "id": "dzhhxisb",
+            "text": "Pinterest"
+          },
+          {
+            "id": "zjdzjokt",
+            "text": "Other?"
+          }
+        ]
       },
       {
         "id": "fyrhouuw",
